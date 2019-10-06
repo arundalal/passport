@@ -18,7 +18,7 @@ def hello(event, context):
     # integration
     """
     return {
-        "message": "Go Serverless v1.0! Your function executed successfully!",
+        "message": "Go Serverless v1.0! Your function executed successfully! Hello World",
         "event": event
     }
     """
